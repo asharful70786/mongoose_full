@@ -7,7 +7,7 @@
 import mongoose from 'mongoose';
 
 
-await mongoose.connect('mongodb+srv://ashrafulmomin2:b3LrGerVZEvkr7Ss@cluster0.rnr4jtm.mongodb.net/Shots');
+await mongoose.connect('url');
 console.log('Connected to MongoDB');
 
 
